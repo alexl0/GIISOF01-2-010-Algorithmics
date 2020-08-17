@@ -1,0 +1,24 @@
+71898603M
+Alejandro León Pereira
+UO258774
+
+ACTIVIDAD 1
+
+¿crees que podrías mezclar valores de diferentes CPUs
+en un mismo estudio analítico de los tiempos de ejecución de un algoritmo?
+No, ya que en función de la CPU varían los tiempos de ejecución de un algoritmo.
+
+ACTIVIDAD 2
+
+¿Qué plan de energía crees que es el más adecuado para realizar mediciones?
+Alto rendimiento, para que el procesador trabaje al máximo, ya que todos los benchmarks
+se hacen siempre con el procesador al máximo rendimiento para poder comparar los resultados
+adecuadamente.
+
+¿podrías utilizar el ordenador para por ejemplo ver un vídeo de YouTube?
+No, ya que el procesador ya no estaría trabajando al 100%.
+
+¿Crees conveniente realizar varias mediciones simultáneamente en el mismo ordenador?
+No, ya que el procesador no daría el 100% en todos y cada uno de los benchmarks.
+Habría que hacerlos secuencialmente para que el procesador pueda ejecutar los
+benchmarks al máximo, y así no falsear los resultados.
